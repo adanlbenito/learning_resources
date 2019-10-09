@@ -4,6 +4,12 @@
 
 # Autoencoders
 
+[Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+
+[Implementing Autoencoders in Keras](https://www.datacamp.com/community/tutorials/autoencoder-keras-tutorial)
+
+[Autoencoders: Deep Learning with Tensorflow's Eager Execution](http://www.datastuff.tech/machine-learning/autoencoder-deep-learning-tensorflow-eager-api-keras/)
+
 ## LSTM
 
 [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
