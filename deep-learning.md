@@ -1,3 +1,7 @@
+# Deep Learning
+
+[Deep Learning. A MIT Press Book](http://www.deeplearningbook.org)
+
 # HMM
 
 [Hidden Markov Model](https://medium.com/@kangeugine/hidden-markov-model-7681c22f5b9)
