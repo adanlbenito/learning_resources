@@ -1,4 +1,4 @@
-# Docker Python and Data Science
+# Docker, Python and Data Science
 
 [Building Python Data Science Container using Docker](https://hackernoon.com/building-python-data-science-container-using-docker-c8e346295669) 
 
