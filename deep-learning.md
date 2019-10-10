@@ -14,6 +14,8 @@
 
 [Autoencoders: Deep Learning with Tensorflow's Eager Execution](http://www.datastuff.tech/machine-learning/autoencoder-deep-learning-tensorflow-eager-api-keras/)
 
+[Autoencoders using tf.keras](https://www.kaggle.com/vikramtiwari/autoencoders-using-tf-keras-mnist)
+
 ## LSTM
 
 [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders/)
